@@ -240,3 +240,6 @@ This repository serves as the official landing page for For The King II. The sof
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of For The King II today!**
+
+---
+**Last updated:** 2026-09-08 21:31:12 UTC
