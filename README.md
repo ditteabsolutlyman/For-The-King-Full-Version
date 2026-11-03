@@ -242,4 +242,4 @@ This repository serves as the official landing page for For The King II. The sof
 **Get the most recent version of For The King II today!**
 
 ---
-**Last updated:** 2026-11-03 03:11:47 UTC
+**Last updated:** 2026-11-03 11:29:21 UTC
